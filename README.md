@@ -20,4 +20,4 @@ Steps to install APP on an iPhone:
 7. In settings go to General and select Profile
 8. Under Developer app, select the email id verify the app
 
-This iOS app uses iSpeech (http://www.ispeech.org/) as the speech recognizer. The iSpeech recognizer is free (all you've gotta do is get a free developer account) but it's accuracy is not as great as the one google offers in Android and Chrome. Leova helps mitigate some of the errors in speech recognition using machine learning specifically for iSpeech.
+This iOS app uses iSpeech (http://www.ispeech.org/) as the speech recognizer. The iSpeech recognizer is free (all you've gotta do is get a free developer account) but it's accuracy is not as great as the one Google offers in Android and Chrome. Leova helps mitigate some of the errors in speech recognition using machine learning specifically for iSpeech.
